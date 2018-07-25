@@ -28,3 +28,4 @@ Company wants to automate the loan eligibility process (real time) based on cust
 |Loan_Status|Loan approved (Y/N)|
 
 ### Solution
+[](https://github.com/xiaoxiaoxiangling/DataAnalysis/blob/master/Loan%20Prediction/load_pretict.ipynb)
